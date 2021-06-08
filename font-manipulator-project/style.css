@@ -1,0 +1,26 @@
+#heading {
+    font-size: 30;
+    font-weight: italic;
+    color: green;
+}
+
+#subheading {
+    font-size: 22;
+    color: red;
+}
+
+.copy_right_footer {
+    font-size: 30;
+    width: 100%;
+    background-color: black;
+    color: green;
+    bottom: 0px;
+    text-align: center;
+    line-height: 3;
+    position: fixed;
+}
+
+canvas {
+    box-shadow: 5px 5px 5px grey;
+    border: solid black;
+}
